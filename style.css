@@ -1,0 +1,33 @@
+body{
+	background: #d2d2c1 url('imagens/fundo.png') fixed;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+h1{
+	color: #828271;
+	font-size: 1.2em;
+}
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+#menu{
+	font-size: 23px;
+	background: #c5c5b2;
+	padding: 18px;
+}
+#capa{
+	width: 900px;
+}
+#texto{
+	background: #e8e8d9;
+	padding: 10px;
+}
+.direitos{
+	text-align: center;
+	font-weight: bold;
+}
+.borda{
+	border: 10px solid #c3c3ae;
+}
